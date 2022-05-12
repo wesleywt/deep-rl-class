@@ -10,6 +10,7 @@ In this free course, you will:
 - 🖌️🎨 **Learn to share your own environments made with Unity and Godot**.
 
 ➡️➡️➡️ Don't forget to sign up here: https://forms.gle/4bbgzs3oVZMjgDed7
+➡️➡️➡️ Don't forget to sign up here: http://eepurl.com/h1pElX
 
 The best way to keep in touch is to **join our discord server to exchange with the community and with us** 👉🏻 https://discord.gg/aYka4Yhff9
 
@@ -18,9 +19,17 @@ Are you new to Discord? Check our **discord 101 to get the best practices** 👉
 And don't forget to share with your friends who want to learn 🤗!
 
 ## The Syllabus 🏗️
+This course is **self-paced** you can start when you want 🥳.
+
 | 📆 Publishing date  | 📘 Unit           | 👩‍💻 Hands-on |
 |---------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+<<<<<<< Updated upstream
 | Published 🥳  | [An Introduction to Deep Reinforcement Learning](https://github.com/huggingface/deep-rl-class/tree/main/unit1)           | [Train a Deep Reinforcement Learning lander agent to land correctly on the Moon 🌕 using Stable-Baselines3](https://github.com/huggingface/deep-rl-class/blob/main/unit1/unit1.ipynb) |
+=======
+| [Published 🥳](https://github.com/huggingface/deep-rl-class/tree/main/unit1#unit-1-introduction-to-deep-reinforcement-learning)  | [An Introduction to Deep Reinforcement Learning](https://github.com/huggingface/deep-rl-class/tree/main/unit1)           | [Train a Deep Reinforcement Learning lander agent to land correctly on the Moon 🌕 using Stable-Baselines3](https://github.com/huggingface/deep-rl-class/blob/main/unit1/unit1.ipynb) |
+| May, the 11th | [Bonus](https://discord.com/channels/879548962464493619/968114737655214080/973937495546925056)                                                    |                                                               |
+| May, the 4th  | An Introduction to Deep Reinforcement Learning           | Train a Deep Reinforcement Learning lander agent to land correctly on the Moon 🌕 using Stable-Baselines3 |
+>>>>>>> Stashed changes
 | May, the 11th | Bonus                                                    | 🎁 it's a surprise 🎁                                                               |
 | May, the 18th | Q-Learning                                               | Train an agent to cross a Frozen lake in this new version of the environment.                                                                                                        |
 | June, the 1st | Deep Q-Learning and improvements                         | Train a Deep Q-Learning agent to play Space Invaders                                                     |
@@ -120,6 +129,7 @@ In this free course, you will:
 **Where do I sign up?**
 
 Here 👉 https://forms.gle/tfa2nUDKxxg8DJAX8
+Here 👉 http://eepurl.com/h1pElX
 
 
 **Where can I find the course?**
